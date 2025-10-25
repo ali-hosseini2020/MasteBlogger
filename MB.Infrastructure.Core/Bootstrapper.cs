@@ -1,0 +1,24 @@
+﻿using MB.Application;
+using MB.Application.Contracts.ArticleCategory;
+using Mb.Domain.ArticleCategoryAgg;
+using Mb.Domain.ArticleCategoryAgg.Services;
+using MB.Infrastructure.EFCore;
+using MB.Infrastructure.EFCore.Repositories;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+
+namespace MB.Infrastructure.Core
+{
+    public class Bootstrapper
+    {
+        public static void Config(IServiceCollection services, string connectionString)
+        {
+            services.AddTransient<IArticleCategoryApplication, ArticleCategoryApplication>();
+            services.AddTransient<IArticleCategoryRepository,ArticleCategoryRepository>();
+            services.AddTransient<IArticleCategoryValidatorService, ArticleCategoryValidatorService>();
+
+            services.AddDbContext<MasterBloggerContext>(options=>
+                options.UseSqlServer(connectionString));
+        }   
+    }
+}

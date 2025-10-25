@@ -1,0 +1,17 @@
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.deps.json
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.dll
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.pdb
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.dll
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\bin\Debug\net5.0\Mb.Domain.dll
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.pdb
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\bin\Debug\net5.0\Mb.Domain.pdb
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.AssemblyReference.cache
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfoInputs.cache
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfo.cs
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.CoreCompileInputs.cache
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Appli.569D401C.Up2Date
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.dll
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\refint\MB.Application.dll
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.pdb
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\ref\MB.Application.dll
