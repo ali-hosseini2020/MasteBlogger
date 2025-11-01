@@ -1127,9 +1127,6 @@
         }
       },
       "MB.Application.Contracts/1.0.0": {
-        "dependencies": {
-          "Mb.Domain": "1.0.0"
-        },
         "runtime": {
           "MB.Application.Contracts.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -1141,6 +1138,9 @@
         }
       },
       "Mb.Domain/1.0.0": {
+        "dependencies": {
+          "MB.Application.Contracts": "1.0.0"
+        },
         "runtime": {
           "Mb.Domain.dll": {
             "assemblyVersion": "1.0.0.0",

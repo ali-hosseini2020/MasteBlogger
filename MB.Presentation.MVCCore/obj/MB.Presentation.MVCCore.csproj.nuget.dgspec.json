@@ -30,11 +30,7 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {
-              "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\Mb.Domain\\Mb.Domain.csproj": {
-                "projectPath": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\Mb.Domain\\Mb.Domain.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -169,7 +165,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Application.Contracts\\MB.Application.Contracts.csproj": {
+                "projectPath": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Application.Contracts\\MB.Application.Contracts.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

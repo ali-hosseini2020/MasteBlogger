@@ -14,6 +14,7 @@ D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\obj\Debug\ne
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.AssemblyInfoInputs.cache
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.AssemblyInfo.cs
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.csproj.CoreCompileInputs.cache
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.sourcelink.json
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infra.839DA3A1.Up2Date
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.dll
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\refint\MB.Infrastructure.Core.dll

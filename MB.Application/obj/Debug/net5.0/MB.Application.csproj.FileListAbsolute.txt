@@ -10,6 +10,7 @@ D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfoInputs.cache
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfo.cs
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.CoreCompileInputs.cache
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.sourcelink.json
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Appli.569D401C.Up2Date
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.dll
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Application\obj\Debug\net5.0\refint\MB.Application.dll

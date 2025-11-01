@@ -5,7 +5,12 @@ D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\obj\Debug\net5.0\Mb.Domai
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\obj\Debug\net5.0\Mb.Domain.AssemblyInfoInputs.cache
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\obj\Debug\net5.0\Mb.Domain.AssemblyInfo.cs
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\obj\Debug\net5.0\Mb.Domain.csproj.CoreCompileInputs.cache
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\obj\Debug\net5.0\Mb.Domain.sourcelink.json
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\obj\Debug\net5.0\Mb.Domain.dll
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\obj\Debug\net5.0\refint\Mb.Domain.dll
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\obj\Debug\net5.0\Mb.Domain.pdb
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\obj\Debug\net5.0\ref\Mb.Domain.dll
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\bin\Debug\net5.0\MB.Application.Contracts.dll
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\bin\Debug\net5.0\MB.Application.Contracts.pdb
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\obj\Debug\net5.0\Mb.Domain.csproj.AssemblyReference.cache
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\Mb.Domain\obj\Debug\net5.0\Mb.Domain.csproj.Up2Date

@@ -1456,9 +1456,6 @@
       "MB.Application.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Mb.Domain": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/MB.Application.Contracts.dll": {}
         },
@@ -1469,6 +1466,9 @@
       "Mb.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MB.Application.Contracts": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Mb.Domain.dll": {}
         },
