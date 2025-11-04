@@ -8,7 +8,7 @@ namespace MB.Infrastructure.EFCore.Mappings
     {
         public void Configure(EntityTypeBuilder<Article> builder)
         {
-            builder.ToTable("Article");
+            builder.ToTable("Articles");
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Title);
             builder.Property(x => x.ShortDescription);

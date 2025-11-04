@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18F876DF-9226-4CEE-97B9-C518435FF43A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.infrastructure.efcore\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18F876DF-9226-4CEE-97B9-C518435FF43A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18F876DF-9226-4CEE-97B9-C518435FF43A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.infrastructure.efcore\\masterbloggercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18F876DF-9226-4CEE-97B9-C518435FF43A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\masterbloggercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18F876DF-9226-4CEE-97B9-C518435FF43A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.infrastructure.efcore\\mappings\\articlemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18F876DF-9226-4CEE-97B9-C518435FF43A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\mappings\\articlemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlecategorymanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlecategorymanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlecategorymanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlecategorymanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A10B67C-D10F-4A7C-BF29-6321698E7971}|MB.Application.Contracts\\MB.Application.Contracts.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.application.contracts\\article\\iarticleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A10B67C-D10F-4A7C-BF29-6321698E7971}|MB.Application.Contracts\\MB.Application.Contracts.csproj|solutionrelative:mb.application.contracts\\article\\iarticleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A10B67C-D10F-4A7C-BF29-6321698E7971}|MB.Application.Contracts\\MB.Application.Contracts.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.application.contracts\\article\\createarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A10B67C-D10F-4A7C-BF29-6321698E7971}|MB.Application.Contracts\\MB.Application.Contracts.csproj|solutionrelative:mb.application.contracts\\article\\createarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A10B67C-D10F-4A7C-BF29-6321698E7971}|MB.Application.Contracts\\MB.Application.Contracts.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.application.contracts\\articlecategory\\iarticlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A10B67C-D10F-4A7C-BF29-6321698E7971}|MB.Application.Contracts\\MB.Application.Contracts.csproj|solutionrelative:mb.application.contracts\\articlecategory\\iarticlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,119 +42,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArticleCategoryApplication.cs",
+              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Application.Contracts\\ArticleCategory\\IArticleCategoryApplication.cs",
+              "RelativeDocumentMoniker": "MB.Application.Contracts\\ArticleCategory\\IArticleCategoryApplication.cs",
+              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Application.Contracts\\ArticleCategory\\IArticleCategoryApplication.cs",
+              "RelativeToolTip": "MB.Application.Contracts\\ArticleCategory\\IArticleCategoryApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:30:57.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ArticleMapping.cs",
-              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Infrastructure.EFCore\\Mappings\\ArticleMapping.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Mappings\\ArticleMapping.cs",
-              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Infrastructure.EFCore\\Mappings\\ArticleMapping.cs",
-              "RelativeToolTip": "MB.Infrastructure.EFCore\\Mappings\\ArticleMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T19:13:32.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ArticleRepository.cs",
-              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Infrastructure.EFCore\\Repositories\\ArticleRepository.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Repositories\\ArticleRepository.cs",
-              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Infrastructure.EFCore\\Repositories\\ArticleRepository.cs",
-              "RelativeToolTip": "MB.Infrastructure.EFCore\\Repositories\\ArticleRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T19:13:02.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MasterBloggerContext.cs",
-              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Infrastructure.EFCore\\MasterBloggerContext.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\MasterBloggerContext.cs",
-              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Infrastructure.EFCore\\MasterBloggerContext.cs",
-              "RelativeToolTip": "MB.Infrastructure.EFCore\\MasterBloggerContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T19:11:58.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "IArticleApplication.cs",
               "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Application.Contracts\\Article\\IArticleApplication.cs",
               "RelativeDocumentMoniker": "MB.Application.Contracts\\Article\\IArticleApplication.cs",
               "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Application.Contracts\\Article\\IArticleApplication.cs",
               "RelativeToolTip": "MB.Application.Contracts\\Article\\IArticleApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T18:35:38.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "List.cshtml.cs",
-              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleCategoryManagement\\List.cshtml.cs",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleCategoryManagement\\List.cshtml.cs",
-              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleCategoryManagement\\List.cshtml.cs",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleCategoryManagement\\List.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T18:35:06.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleCategoryManagement\\List.cshtml",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleCategoryManagement\\List.cshtml",
-              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleCategoryManagement\\List.cshtml",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleCategoryManagement\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-01T18:34:02.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAACAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T20:31:06.601Z",
+              "WhenOpened": "2025-11-04T17:59:54.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "List.cshtml.cs",
-              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml.cs",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml.cs",
-              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml.cs",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Title": "CreateArticle.cs",
+              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Application.Contracts\\Article\\CreateArticle.cs",
+              "RelativeDocumentMoniker": "MB.Application.Contracts\\Article\\CreateArticle.cs",
+              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Application.Contracts\\Article\\CreateArticle.cs",
+              "RelativeToolTip": "MB.Application.Contracts\\Article\\CreateArticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T19:29:57.176Z",
+              "WhenOpened": "2025-11-04T17:57:47.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
-              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml.cs",
+              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml.cs",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:52:18.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T19:26:19.107Z",
+              "WhenOpened": "2025-11-04T17:52:14.212Z",
               "EditorCaption": ""
             }
           ]

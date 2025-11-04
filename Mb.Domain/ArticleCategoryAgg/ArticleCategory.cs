@@ -13,7 +13,7 @@ namespace Mb.Domain.ArticleCategoryAgg
         public DateTime CreationDate { get; private set; }
 
         //Represents the 'Many' side of the One-to-Many relationship with Article.
-        // A single ArticleCategory can contain multiple Articles.
+        // A single ArticleCategoryId can contain multiple Articles.
         // Collection of articles belonging to this category. Used for navigation and ensuring Domain integrity.
         public ICollection<Article> Articles { get; private set; }
 
