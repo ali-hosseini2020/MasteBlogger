@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using MB.Application.Contracts.Article;
 using Mb.Domain.ArticleAgg;
 using MB.Domain.ArticleAgg;
@@ -22,9 +21,45 @@ namespace MB.Application
 
         public void Create(CreateArticle command)
         {
-            var article = new Article(command.Title,command.ShortDescription,command.Image,command.Content,
+            var article = new Article(command.Title, command.ShortDescription, command.Image, command.Content,
                 command.ArticleCategoryId);
             _articleRepository.CreateAndSave(article);
+        }
+
+        public void Edit(EditArticle command)
+        {
+            var article = _articleRepository.Get(command.Id);
+            article.Edit(command.Title, command.ShortDescription, command.Image, command.Content,
+                command.ArticleCategoryId);
+            _articleRepository.Save();
+        }
+
+        public EditArticle Get(long id)
+        {
+            var article = _articleRepository.Get(id);
+            return new EditArticle
+            {
+                Id = article.Id,
+                Title = article.Title,
+                Image = article.Image,
+                ShortDescription = article.ShortDescription,
+                Content = article.Content,
+                ArticleCategoryId = article.ArticleCategoryId
+            };
+        }
+
+        public void Remove(long id)
+        {
+            var article = _articleRepository.Get(id);   
+            article.Remove();
+            _articleRepository.Save();
+        }
+
+        public void Activate(long id)
+        {
+            var article = _articleRepository.Get(id);
+            article.Activate();
+            _articleRepository.Save();
         }
     }
 }
