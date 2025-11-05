@@ -14,5 +14,7 @@ namespace MB.Domain.ArticleAgg
 
         void Save();
 
+        bool Exists(string title);
+
     }
 }
