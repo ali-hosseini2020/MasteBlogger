@@ -20,3 +20,5 @@ D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\obj\Debug\ne
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\refint\MB.Infrastructure.Core.dll
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.pdb
 D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\ref\MB.Infrastructure.Core.dll
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.dll
+D:\MY PROJECT-VisualStudio2012\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
