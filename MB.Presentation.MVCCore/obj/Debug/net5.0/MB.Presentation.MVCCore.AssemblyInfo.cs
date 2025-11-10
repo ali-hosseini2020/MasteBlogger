@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MB.Presentation.MVCCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+520731f85ff296adcb436ee33ed1e210ef99b254")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+697aec7d89fb99311848e0e4f3c19135c27679c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MB.Presentation.MVCCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MB.Presentation.MVCCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
