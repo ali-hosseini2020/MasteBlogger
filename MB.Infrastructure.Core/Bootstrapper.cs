@@ -1,11 +1,13 @@
 ﻿using MB.Application;
 using MB.Application.Contracts.Article;
 using MB.Application.Contracts.ArticleCategory;
+using MB.Application.Contracts.Comment;
 using Mb.Domain.ArticleAgg;
 using MB.Domain.ArticleAgg;
 using Mb.Domain.ArticleAgg.Services;
 using Mb.Domain.ArticleCategoryAgg;
 using Mb.Domain.ArticleCategoryAgg.Services;
+using Mb.Domain.CommentAgg;
 using MB.Infrastructure.EFCore;
 using MB.Infrastructure.EFCore.Repositories;
 using MB.Infrastructure.Query;
@@ -21,10 +23,15 @@ namespace MB.Infrastructure.Core
             services.AddTransient<IArticleCategoryApplication, ArticleCategoryApplication>();
             services.AddTransient<IArticleCategoryRepository, ArticleCategoryRepository>();
             services.AddTransient<IArticleCategoryValidatorService, ArticleCategoryValidatorService>();
+
             services.AddTransient<IArticleRepository, ArticleRepository>();
             services.AddTransient<IArticleApplication, ArticleApplication>();
             services.AddTransient<IArticleValidatorService, ArticleValidatorService>();
+
             services.AddTransient<IArticleQuery, ArticleQuery>();
+
+            services.AddTransient<ICommentApplication, CommentApplication>();
+            services.AddTransient<ICommentRepository, CommentRepository>();
 
             services.AddDbContext<MasterBloggerContext>(options =>
                 options.UseSqlServer(connectionString));
