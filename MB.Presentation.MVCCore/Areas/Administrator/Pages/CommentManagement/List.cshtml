@@ -53,15 +53,17 @@
 						
 						@if (comment.Status == Statuses.New)
 						{
-							@*<form method="post" asp-page-handler="Confirm" class="float-left">
-								<button class="btn btn-success">Confirm</button>
-								<input type="hidden" name="Id" value="@comment.Id"/>
-							</form>*@
-						
-							@*<form method="post" asp-page-handler="Cancel" class="float-left">
-								<button class="btn btn-danger">Cancel</button>
-								<input type="hidden" name="Id" value="@comment.Id"/>
-							</form>*@
+							<div class="d-flex">
+								<form method="post" asp-page-handler="Confirm" class="mr-2">
+									<button class="btn btn-success">Confirm</button>
+									<input type="hidden" name="Id" value="@comment.Id"/>
+								</form>
+        
+								<form method="post" asp-page-handler="Cancel">
+									<button class="btn btn-danger">Cancel</button>
+									<input type="hidden" name="Id" value="@comment.Id"/>
+								</form>
+							</div>
 						}
 					</td>
 				</tr>

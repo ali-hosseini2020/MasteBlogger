@@ -26,7 +26,7 @@ namespace MB.Presentation.MVCCore.Pages
         public RedirectToPageResult OnPost(AddComment command)
         {
             _commentApplication.Add(command);
-            return RedirectToPage("./Article", new { id = command.ArticleId });
+            return RedirectToPage("./ArticleDetails", new { id = command.ArticleId });
         }
     }
 }

@@ -7,12 +7,40 @@
       "RelativeMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\commentmanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{999795EF-763E-41A9-874D-1675FBDFAA4E}|Mb.Domain\\Mb.Domain.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.domain\\commentagg\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999795EF-763E-41A9-874D-1675FBDFAA4E}|Mb.Domain\\Mb.Domain.csproj|solutionrelative:mb.domain\\commentagg\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C67F7-DDDF-4838-AD93-7179EF32A084}|MB.Application\\MB.Application.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.application\\commentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6C67F7-DDDF-4838-AD93-7179EF32A084}|MB.Application\\MB.Application.csproj|solutionrelative:mb.application\\commentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\commentmanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\commentmanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.presentation.mvccore\\areas\\administrator\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\areas\\administrator\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.presentation.mvccore\\pages\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\pages\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F876DF-9226-4CEE-97B9-C518435FF43A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.infrastructure.efcore\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F876DF-9226-4CEE-97B9-C518435FF43A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.presentation.mvccore\\pages\\articledetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8AEE00-D167-41A9-832C-B9B64D6AC41A}|MB.Presentation.MVCCore\\MB.Presentation.MVCCore.csproj|solutionrelative:mb.presentation.mvccore\\pages\\articledetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A10B67C-D10F-4A7C-BF29-6321698E7971}|MB.Application.Contracts\\MB.Application.Contracts.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.application.contracts\\comment\\icommentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A10B67C-D10F-4A7C-BF29-6321698E7971}|MB.Application.Contracts\\MB.Application.Contracts.csproj|solutionrelative:mb.application.contracts\\comment\\icommentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999795EF-763E-41A9-874D-1675FBDFAA4E}|Mb.Domain\\Mb.Domain.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.domain\\commentagg\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999795EF-763E-41A9-874D-1675FBDFAA4E}|Mb.Domain\\Mb.Domain.csproj|solutionrelative:mb.domain\\commentagg\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999795EF-763E-41A9-874D-1675FBDFAA4E}|Mb.Domain\\Mb.Domain.csproj|d:\\my project-visualstudio2012\\masterblogger\\mb.domain\\commentagg\\statuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999795EF-763E-41A9-874D-1675FBDFAA4E}|Mb.Domain\\Mb.Domain.csproj|solutionrelative:mb.domain\\commentagg\\statuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +62,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T18:45:59.68Z",
+              "DocumentIndex": 6,
+              "Title": "ArticleDetails.cshtml.cs",
+              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
+              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:13:59.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "ArticleDetails.cshtml",
+              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
+              "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
+              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
+              "RelativeToolTip": "MB.Presentation.MVCCore\\Pages\\ArticleDetails.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:03:09.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "List.cshtml.cs",
               "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
               "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
               "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
               "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T17:10:17.301Z",
+              "WhenOpened": "2025-11-15T15:16:49.05Z",
               "EditorCaption": ""
             },
             {
@@ -66,9 +107,87 @@
               "RelativeDocumentMoniker": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml",
               "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml",
               "RelativeToolTip": "MB.Presentation.MVCCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T17:10:10.129Z",
+              "WhenOpened": "2025-11-15T15:16:46.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Infrastructure.EFCore\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Repositories\\CommentRepository.cs",
+              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Infrastructure.EFCore\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "MB.Infrastructure.EFCore\\Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAnwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:23:55.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\Mb.Domain\\CommentAgg\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Mb.Domain\\CommentAgg\\ICommentRepository.cs",
+              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\Mb.Domain\\CommentAgg\\ICommentRepository.cs",
+              "RelativeToolTip": "Mb.Domain\\CommentAgg\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:22:13.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentApplication.cs",
+              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Application\\CommentApplication.cs",
+              "RelativeDocumentMoniker": "MB.Application\\CommentApplication.cs",
+              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Application\\CommentApplication.cs",
+              "RelativeToolTip": "MB.Application\\CommentApplication.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAnwB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:21:17.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICommentApplication.cs",
+              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Application.Contracts\\Comment\\ICommentApplication.cs",
+              "RelativeDocumentMoniker": "MB.Application.Contracts\\Comment\\ICommentApplication.cs",
+              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\MB.Application.Contracts\\Comment\\ICommentApplication.cs",
+              "RelativeToolTip": "MB.Application.Contracts\\Comment\\ICommentApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:16:16.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Statuses.cs",
+              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\Mb.Domain\\CommentAgg\\Statuses.cs",
+              "RelativeDocumentMoniker": "Mb.Domain\\CommentAgg\\Statuses.cs",
+              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\Mb.Domain\\CommentAgg\\Statuses.cs",
+              "RelativeToolTip": "Mb.Domain\\CommentAgg\\Statuses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:12:09.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\Mb.Domain\\CommentAgg\\Comment.cs",
+              "RelativeDocumentMoniker": "Mb.Domain\\CommentAgg\\Comment.cs",
+              "ToolTip": "D:\\MY PROJECT-VisualStudio2012\\MasterBlogger\\Mb.Domain\\CommentAgg\\Comment.cs",
+              "RelativeToolTip": "Mb.Domain\\CommentAgg\\Comment.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAnwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:11:45.683Z",
               "EditorCaption": ""
             }
           ]

@@ -36,5 +36,14 @@ namespace Mb.Domain.CommentAgg
             Status = Statuses.New;
         }
 
+        public void Confirm()
+        {
+            Status = Statuses.Confirmed;
+        }
+
+        public void Cancel()
+        {
+            Status = Statuses.Canceled;
+        }
     }
 }
